@@ -5,8 +5,3 @@ Here are all of the Scientific Python Projects curated by FreeCodeCamp! I have s
 > Please feel free to test them out, and let me know if you find any bugs 🐛
 
 ###### The projects can be accessed via the branch-  head to my **[replit](https://replit.com/@noahpyn/Arithmetic-Formatter#main.py)** for Live previews.
-
-## 1. Polygon Area Calculator 
-
-## 2. Budget App
-
